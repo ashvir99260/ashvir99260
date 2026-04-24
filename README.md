@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**ashvir99260/ashvir99260** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Ashish Virde 👋
 
-Here are some ideas to get you started:
+Frontend-focused Full Stack Engineer with 5+ years of experience building scalable SaaS products and high-performance web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 What I Do
+- Build production-grade apps using Next.js, React, TypeScript
+- Design scalable frontend architectures (Monorepo, Micro Frontends)
+- Implement RBAC, search systems, analytics dashboards
+- Work across frontend + backend (Node.js, APIs, GraphQL)
+
+## 🧠 What I’ve Built
+- SaaS management platform (Josys - RAKSUL India)
+- Advanced usage analytics dashboards for IT admins
+- RBAC systems for enterprise-grade applications
+- Micro frontend architecture for large-scale apps
+- Real-time systems using WebSockets (Socket.io)
+
+## ⚡ Tech Stack
+Next.js • React • TypeScript • Node.js • GraphQL • REST • Docker • AWS  
+Monorepo • Microservices • Tailwind • MUI • PostgreSQL • MongoDB  
+
+## 📌 Currently Focused On
+- Building high-performance frontend systems
+- Scalable fullstack architecture
+- Developer experience (DX) & system design
+
+## 📫 Connect With Me
+- GitHub: https://github.com/ashvir99260
+- LinkedIn: https://linkedin.com/in/ashish-v-373071a7
